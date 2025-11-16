@@ -1,0 +1,44 @@
+{
+  "name": "DarkBug",
+  "version": "1.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "latest",
+    "@whiskeysockets/baileys": "latest",
+    "audio-decode": "latest",
+    "chalk": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fs": "latest",
+    "jimp": "latest",
+    "link-preview-js": "latest",
+    "lucide-react": "^0.454.0",
+    "next": "16.0.3",
+    "path": "latest",
+    "pino": "latest",
+    "pino-pretty": "^10.2.3",
+    "qrcode-terminal": "latest",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "readline": "latest",
+    "sharp": "latest",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "19.2.5",
+    "@types/react-dom": "19.2.3",
+    "postcss": "^8.5",
+    "tailwindcss": "4.1.17",
+    "typescript": "^5"
+  }
+}
